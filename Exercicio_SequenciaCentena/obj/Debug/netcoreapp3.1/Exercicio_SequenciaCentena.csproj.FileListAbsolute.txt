@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\atividades PC\Exercicio_SequenciaCentena\obj\Debug\netcoreapp3.1\Exercicio_SequenciaCentena.csprojAssemblyReference.cache
+C:\Users\User\Desktop\atividades PC\Exercicio_SequenciaCentena\obj\Debug\netcoreapp3.1\Exercicio_SequenciaCentena.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\atividades PC\Exercicio_SequenciaCentena\obj\Debug\netcoreapp3.1\Exercicio_SequenciaCentena.AssemblyInfo.cs
+C:\Users\User\Desktop\atividades PC\Exercicio_SequenciaCentena\bin\Debug\netcoreapp3.1\Exercicio_SequenciaCentena.exe
+C:\Users\User\Desktop\atividades PC\Exercicio_SequenciaCentena\bin\Debug\netcoreapp3.1\Exercicio_SequenciaCentena.deps.json
+C:\Users\User\Desktop\atividades PC\Exercicio_SequenciaCentena\bin\Debug\netcoreapp3.1\Exercicio_SequenciaCentena.runtimeconfig.json
+C:\Users\User\Desktop\atividades PC\Exercicio_SequenciaCentena\bin\Debug\netcoreapp3.1\Exercicio_SequenciaCentena.runtimeconfig.dev.json
+C:\Users\User\Desktop\atividades PC\Exercicio_SequenciaCentena\bin\Debug\netcoreapp3.1\Exercicio_SequenciaCentena.dll
+C:\Users\User\Desktop\atividades PC\Exercicio_SequenciaCentena\bin\Debug\netcoreapp3.1\Exercicio_SequenciaCentena.pdb
+C:\Users\User\Desktop\atividades PC\Exercicio_SequenciaCentena\obj\Debug\netcoreapp3.1\Exercicio_SequenciaCentena.dll
+C:\Users\User\Desktop\atividades PC\Exercicio_SequenciaCentena\obj\Debug\netcoreapp3.1\Exercicio_SequenciaCentena.pdb
